@@ -27,7 +27,7 @@ This Tableau dashboard provides insights into procurement metrics across various
 - `Dashboard_Export.png` – Image preview
 - `README.md` – Project description
 
-👉 [View Dashboard on Tableau Public](https://public.tableau.com/views/YourDashboardName)
+(https://public.tableau.com/views/YourDashboardName)
 
 
 
